@@ -1,0 +1,32 @@
+body{
+
+    width: 1440px;
+    margin: auto;
+
+}
+
+.header {
+
+    width: 1140px;
+    margin: auto;
+}
+
+.banner-image {
+
+    background-image: url('images/banner.png');
+
+}
+
+.main-contant {
+
+    width: 1140px;
+    margin: auto;
+
+}
+
+.fotter{
+
+    width: 1140px;
+    margin: auto;
+
+}
